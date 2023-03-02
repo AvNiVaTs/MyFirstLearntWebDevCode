@@ -1,0 +1,46 @@
+*{
+    background-color: black;
+}
+
+br{
+    background-color: black;
+}
+
+nav{
+    font-family: Lobster;
+    font-size: x-large;
+}
+
+h5{
+    color: aqua;
+}
+
+p{
+    color: antiquewhite;
+}
+
+li{
+    list-style: none;
+}
+
+section{
+    padding: 30px;
+}
+
+.some{
+    font-family: Lobster;
+    font-size: x-large;
+}
+
+footer{
+    padding: 30px;
+    font-family: Lobster;
+}
+
+.footer-link {
+    color: #FFFFFF;
+}
+
+.footer-link:hover {
+    color: red;
+}
