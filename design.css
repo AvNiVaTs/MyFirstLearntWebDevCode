@@ -1,0 +1,83 @@
+h1{
+    font-family: Roboto Mono;
+    font-size: 40;
+    text-align: center;
+    padding: 3px;
+}
+
+ul{
+    background-color: black;
+    font-family: Montserrat Alternates;
+    list-style: none;
+    padding-top: 2px;
+    padding-bottom: 8px;
+    padding-right: 30px;
+    padding-left: 20px;
+}
+
+li{
+    margin: 3px;
+}
+
+li a{
+    color:white;
+    text-decoration: none;
+}
+
+li a:hover{
+    color: red;
+}
+
+img{
+    border-radius: 5%;
+    width: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+hr{
+    border: solid;
+    width: 90%;
+}
+
+p{
+    font-family: Pacifico;
+    font-size: 25;
+}
+
+.double{
+    border: 2px dotted;
+    width: 70%;
+}
+
+.special_1{
+    font-family: Montserrat Alternates;
+    font-size: 30;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+.special{
+    font-family: Source Code Pro;
+}
+
+#rate{
+    color: red;
+    background-color: bisque;
+    width: 7%;
+}
+
+form{
+    font-family: Montserrat Alternates;
+    background-color: bisque;
+    width: 16%;
+}
+
+footer{
+    font-family: Roboto Mono;
+    
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
